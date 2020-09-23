@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MeEngineering-cache)(type Legacy)(uri ${KIPRJMOD}/MeEngineering-cache.lib)(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+206 baumaß resistor
+65mm hoch
+100mm breit
+mikro usb  erreichbar von außen, am rand platzieren
+
+Programm für 3D-Druck: fusion360
